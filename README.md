@@ -12,8 +12,6 @@ The implementation is based on Python and the Operator Discretization Library (O
 The following approaches are implemented and evaluated:
 
 - Filtered Back Projection (FBP)
-- Tikhonov regularization
-- Total Variation (TV) regularization
 - Huber regularization
 - Parameter studies for regularization strength
 
